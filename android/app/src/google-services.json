@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272591166698",
+    "project_id": "fir-flutter-otp-ef2dc",
+    "storage_bucket": "fir-flutter-otp-ef2dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272591166698:android:79a3d575e68bae7bfc0b93",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cinema_06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272591166698-0oi514ts0na8nnq4rvsms8gurkiidkdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkIMTnhFxBSMEnvOwNppFYR1W3SoBD1Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272591166698-0oi514ts0na8nnq4rvsms8gurkiidkdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
