@@ -6,7 +6,7 @@
 
 Welcome to MHPcinemas :wave: - the leading online ticket booking platform, where you can easily book movie tickets anytime, anywhere.
 
-:point_right: (I'm just kidding. Here is an exercise to practice. It is a movie ticket booking website with front-end only) :zany_face: :zany_face:
+:point_right: (I'm just kidding. Here is an exercise to practice. It is a movie ticket booking app with front-end only) :zany_face: :zany_face:
 
 ## Main Feature <img src="https://github.com/Phucmh98/MHPcinemas/blob/master/src/assets/img/logo/logo_mhp.png" alt="(http://mhpcinemas.surge.sh/)" class="image" height="30">
 <img align="right" src="https://github.com/Phucmh98/MHPcinemas/blob/master/public/img/Carousel/carousel_mobile_1.jpg" alt="logo" class="image" height="500"> 
