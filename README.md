@@ -27,6 +27,7 @@ Welcome to MHPcinemas :wave: - the leading online ticket booking platform, where
 > - **Detail Cinemas page:** Show seats and choose seats, show detail tickets
 > - **Cinemas page:** Show detail cinemas and movies, show information cinemas include: name, location, showtime
 > - **Tickets page:** Show detail detail tickets
+> - :point_down::point_down: Click Here to download
 </div>
 
 ## Technology
