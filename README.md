@@ -9,9 +9,9 @@ Welcome to MHPcinemas :wave: - the leading online ticket booking platform, where
 :point_right: (I'm just kidding. Here is an exercise to practice. It is a movie ticket booking website with front-end only) :zany_face: :zany_face:
 
 ## Main Feature <img src="https://github.com/Phucmh98/MHPcinemas/blob/master/src/assets/img/logo/logo_mhp.png" alt="(http://mhpcinemas.surge.sh/)" class="image" height="30">
+<img align="right" src="https://github.com/Phucmh98/MHPcinemas/blob/master/public/img/Carousel/carousel_mobile_1.jpg" alt="logo" class="image" height="500"> 
 
-<img align="right" src="https://github.com/Phucmh98/MHPcinemas/blob/master/public/img/Carousel/carousel_mobile_1.jpg" alt="logo" class="image" height="400"> 
-
+### This is an application developed specifically for mobile phones :iphone:
 *Because this is the academy's API provided to me for homework, there will be many things that are not true to reality. Hope you ignore it.*
 
 *I'm refer to UI/UX from many sources so you may see it somewhere and I hope you ignore it because this is just my exercise* :wink:. *Thank you so much.* :sparkling_heart:
@@ -28,8 +28,6 @@ Welcome to MHPcinemas :wave: - the leading online ticket booking platform, where
 > - **Cinemas page:** Show detail cinemas and movies, show information cinemas include: name, location, showtime
 > - **Tickets page:** Show detail detail tickets
 </div>
-
-
 
 ## Technology
 
