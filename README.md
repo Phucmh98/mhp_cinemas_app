@@ -10,32 +10,26 @@ Welcome to MHPcinemas :wave: - the leading online ticket booking platform, where
 
 ## Main Feature <img src="https://github.com/Phucmh98/MHPcinemas/blob/master/src/assets/img/logo/logo_mhp.png" alt="(http://mhpcinemas.surge.sh/)" class="image" height="30">
 
+<img align="right" src="https://github.com/Phucmh98/MHPcinemas/blob/master/public/img/Carousel/carousel_mobile_1.jpg" alt="logo" class="image" height="400"> 
+
 *Because this is the academy's API provided to me for homework, there will be many things that are not true to reality. Hope you ignore it.*
 
 *I'm refer to UI/UX from many sources so you may see it somewhere and I hope you ignore it because this is just my exercise* :wink:. *Thank you so much.* :sparkling_heart:
 
+<div>
 :point_down::point_down: Here is Homepage:
-
+  
 <img src="https://github.com/Phucmh98/MHPcinemas/blob/master/src/assets/img/logo/logo_mhp.png" alt="(http://mhpcinemas.surge.sh/)" class="image" height="30"> [**MHPcinemas**](http://mhpcinemas.surge.sh/) :point_left:  
 
 > - **Login/Register**  
-> - **Home page:** Shows movie list (include: Show All, Now Showing, Comming Soon), Find movies, Popup Video   
-> - **Detail Movie page:** Show information movie, show cinemas
+> - **Home page:** Shows movie list
+> - **Detail Movie page:** Show information movie, show cinemas, show trailer
 > - **Detail Cinemas page:** Show seats and choose seats, show detail tickets
 > - **Cinemas page:** Show detail cinemas and movies, show information cinemas include: name, location, showtime
+> - **Tickets page:** Show detail detail tickets
+</div>
 
-### In addition, I have an additional User Management page
 
-:point_down::point_down: Here is Management page:
-
-<img src="https://github.com/Phucmh98/MHPcinemas/blob/master/src/assets/img/logo/logo_mhp.png" alt="(http://mhpcinemas.surge.sh/)" class="image" height="30"> [**MHPmanagement**](http://mhpcinemas.surge.sh/admin) :point_left:  
-
-> - **Login/Register**  
-> - **User page:** CRUD user, find user  
-> - **User movie:** CRUD movie, find movie  
-
-### I'm already have another version for mobile :star_struck:. :point_right::point_right: [Click Here](https://github.com/Phucmh98/mhp_cinemas_app) :rocket: and I'll take you there. :wink:
-<img  alt="coding"  src="https://github.com/Phucmh98/MHPcinemas/blob/master/public/img/Carousel/carousel_mhp.png">
 
 ## Technology
 
