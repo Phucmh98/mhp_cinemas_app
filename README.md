@@ -30,6 +30,15 @@ Welcome to MHPcinemas :wave: - the leading online ticket booking platform, where
 > - :point_right::point_right: [Click Here to download APK](https://drive.google.com/file/d/1gUOzmD0qxcNMpdn114vofLk33picBGgm/view?usp=sharing)
 </div>
 
+## Demo Image <img src="https://github.com/Phucmh98/MHPcinemas/blob/master/src/assets/img/logo/logo_mhp.png" alt="MHP Cinemas Logo" height="30">
+
+<img src="https://github.com/Phucmh98/mhp_cinemas_app/blob/master/assets/imgDemo/carousel_mobile_1.jpg" alt="Image 1" height="480"> <img src="https://github.com/Phucmh98/mhp_cinemas_app/blob/master/assets/imgDemo/carousel_mobile_2.jpg" alt="Image 2" height="480"> <img src="https://github.com/Phucmh98/mhp_cinemas_app/blob/master/assets/imgDemo/carousel_mobile_3.jpg" alt="Image 3" height="480"> <img src="https://github.com/Phucmh98/mhp_cinemas_app/blob/master/assets/imgDemo/carousel_mobile_4.jpg" alt="Image 4" height="480">
+<img src="https://github.com/Phucmh98/mhp_cinemas_app/blob/master/assets/imgDemo/carousel_mobile_5.jpg" alt="Image 5" height="480"> <img src="https://github.com/Phucmh98/mhp_cinemas_app/blob/master/assets/imgDemo/carousel_mobile_6.jpg" alt="Image 6" height="480"> <img src="https://github.com/Phucmh98/mhp_cinemas_app/blob/master/assets/imgDemo/carousel_mobile_7.jpg" alt="Image 7" height="480"> <img src="https://github.com/Phucmh98/mhp_cinemas_app/blob/master/assets/imgDemo/carousel_mobile_7.jpg" alt="Image 7" height="480">
+<img src="https://github.com/Phucmh98/mhp_cinemas_app/blob/master/assets/imgDemo/carousel_mobile_8.jpg" alt="Image 8" height="480"> <img src="https://github.com/Phucmh98/mhp_cinemas_app/blob/master/assets/imgDemo/carousel_mobile_9.jpg" alt="Image 9" height="480"> <img src="https://github.com/Phucmh98/mhp_cinemas_app/blob/master/assets/imgDemo/carousel_mobile_10.jpg" alt="Image 10" height="480"> <img src="https://github.com/Phucmh98/mhp_cinemas_app/blob/master/assets/imgDemo/carousel_mobile_12.jpg" alt="Image 12" height="480">
+<img src="https://github.com/Phucmh98/mhp_cinemas_app/blob/master/assets/imgDemo/carousel_mobile_13.jpg" alt="Image 13" height="480"> <img src="https://github.com/Phucmh98/mhp_cinemas_app/blob/master/assets/imgDemo/carousel_mobile_14.jpg" alt="Image 14" height="480"> 
+
+
+
 ## Technology
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
